@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-schedule",
-  "hubot-cron"
+  "hubot-cron",
+  "hubot-cron-events"
 ]
