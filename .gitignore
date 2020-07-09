@@ -2,3 +2,5 @@
 .hubot_history
 node_modules
 npm-debug.log
+.env
+run.sh
